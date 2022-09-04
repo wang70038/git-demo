@@ -17,4 +17,4 @@ hello wang70038! hello git!
 hello wang70038! hello git!
 hello wang70038! hello git!
 hello wang70038! hello git! master test
-hello wang70038! hello
+hello wang70038! hello hot-fix test
